@@ -1,0 +1,4 @@
+email,facebook_handle,facebook_handle_created_date,twitter_handle,twitter_handle_created_date,insta_handle,insta_handle_created_date,public_posts
+user1@example.com,@fb_user1,2010-05-01,@tw_user1,2011-03-10,@insta_user1,2012-08-15,"Great day for a hike! Loving nature."
+user2@example.com,@fb_user2,2015-07-22,@tw_user2,2016-09-05,@insta_user2,2014-02-20,"Feeling down. It's been a tough week, but I'm staying strong."
+user3@example.com,@fb_user3,2013-01-13,@tw_user3,2013-11-27,@insta_user3,2017-05-06,"Excited about the new project launch! Let's make it great."
